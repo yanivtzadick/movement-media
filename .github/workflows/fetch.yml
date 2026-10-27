@@ -1,0 +1,16 @@
+name: fetch media
+on:
+  push:
+    paths: [fetch-list.txt]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p fetched
+          while read name url; do [ -n "$name" ] && curl -sSL -o "fetched/$name" "$url"; done < fetch-list.txt
+          git config user.name "Yaniv Tzadick"; git config user.email "yanivtzadick@gmail.com"
+          git add fetched && git commit -m "Fetched media" && git push
