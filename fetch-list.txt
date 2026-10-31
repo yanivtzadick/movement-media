@@ -1,1 +1,1 @@
-mov_post_full.png https://static.metricool.com/planner/202610/7163517-file-9731346845976525178.png
+naama_story_canva.jpg https://export-download.canva.com/O9uhc/DAHZkHO9uhc/-1/0/0001-2328881697393654660.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261030T110329Z&X-Amz-Expires=81271&X-Amz-Signature=82dd9649ef40a6f54de374b067954b07855ce7452b278faa9f63eb7039919233&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2031%20Oct%202026%2009%3A38%3A00%20GMT
