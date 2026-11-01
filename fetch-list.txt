@@ -1,1 +1,1 @@
-silo_week_8_11.jpg https://export-download.canva.com/2zp90/DAHZkP2zp90/-1/0/0001-5776387212531986220.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH4R7NKVBA%2F20261030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261030T154322Z&X-Amz-Expires=68633&X-Amz-Signature=2d36f41c221f2e99eb95103ab430d9d70665fbd924d035f995df75fda7381718&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2031%20Oct%202026%2010%3A47%3A15%20GMT
+silo_evt_nl.jpg https://static.wixstatic.com/media/42b6b7_544219913bb84273ac834de385a797a0~mv2.jpg
